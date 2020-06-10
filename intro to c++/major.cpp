@@ -1,4 +1,4 @@
-//introduction_hw2-Eliezer Brown
+//intro-Eliezer Brown
 #include <iostream>
 #include <string>
 using namespace std;
