@@ -1,4 +1,4 @@
-// Homework #4 Expressions - Eliezer Brown
+//Change Calculator - Eliezer Brown
 
 #include <iostream>
 #include <string>
