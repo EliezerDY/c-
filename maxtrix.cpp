@@ -7,11 +7,10 @@ int main() {
           cout << "Enter an odd number between 5 and 11 inclusive:  ";
           cin >> n;
           cout << endl;
-          if(n>=5 && n<=11)
-          {
+             if(n>=5 && n<=11)
+              {
             if(n%2!=0)
-
-          break;
+            break;
         }
           else  cout << "Invalid value." << endl;
       } while(true);
