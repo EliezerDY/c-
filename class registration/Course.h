@@ -26,8 +26,8 @@ public:
     void display();
 private:
    std::string name;
-   Instructor *instructors;//is this right?
-   MyArray<Student*>students;//like this?
+   Instructor *instructors;
+   MyArray<Student*>students;
   };
 
 #endif
